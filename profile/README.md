@@ -14,4 +14,4 @@ Our plugins are fully customizable, so you can tweak them to fit your server's n
 
 ## Contact Us
 
-If you're interested in working with us, or if you have any questions about our plugins, please don't hesitate to contact us. You can reach us by email at [email address] or by [joining our Discord server](https://discord.gg/XXXXXX).
+If you're interested in working with us, or if you have any questions about our plugins, please don't hesitate to contact us. You can reach us by email at [threefourcontact@gmail.com] or by [joining our Discord server](https://discord.gg/XXXXXX).
